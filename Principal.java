@@ -8,6 +8,8 @@ public class Principal {
 		System.out.println("Conflicto resuelto, commit definitivo fusión recursiva");
 
 		System.out.println("Preparado para llevar a local");
+		
+		 System.out.println("Preparado para llevar al remoto");
 
 	}
 
